@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.tsv
+*.log
+.venv/
+.venv*/
+venv/
+venv*/
+*.tmp
+# Keep small diagnostic summaries
+!argon_diagnostic_results.json

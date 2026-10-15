@@ -1,0 +1,152 @@
+[
+  {
+    "n": 100,
+    "mod30": 10,
+    "goldbach_pairs": 6,
+    "chen_pairs": 12,
+    "parity_ratio": 0.5,
+    "r_fft": 162.07824666716624,
+    "major_arc_model": 196.22222222222223,
+    "minor_arc_eta": 0.17400667043913018
+  },
+  {
+    "n": 500,
+    "mod30": 20,
+    "goldbach_pairs": 13,
+    "chen_pairs": 37,
+    "parity_ratio": 0.35135135135135137,
+    "r_fft": 865.2629649110604,
+    "major_arc_model": 981.1111111111112,
+    "minor_arc_eta": 0.11807851821069729
+  },
+  {
+    "n": 1000,
+    "mod30": 10,
+    "goldbach_pairs": 28,
+    "chen_pairs": 67,
+    "parity_ratio": 0.417910447761194,
+    "r_fft": 1880.0702208144357,
+    "major_arc_model": 1962.2222222222224,
+    "minor_arc_eta": 0.04186681838448923
+  },
+  {
+    "n": 1112,
+    "mod30": 2,
+    "goldbach_pairs": 16,
+    "chen_pairs": 57,
+    "parity_ratio": 0.2807017543859649,
+    "r_fft": 1367.9397907273378,
+    "major_arc_model": 1486.9911111111112,
+    "minor_arc_eta": 0.08006189108609782
+  },
+  {
+    "n": 1412,
+    "mod30": 2,
+    "goldbach_pairs": 18,
+    "chen_pairs": 72,
+    "parity_ratio": 0.25,
+    "r_fft": 1593.7302371193655,
+    "major_arc_model": 1888.157777777778,
+    "minor_arc_eta": 0.1559337594154509
+  },
+  {
+    "n": 2672,
+    "mod30": 2,
+    "goldbach_pairs": 28,
+    "chen_pairs": 121,
+    "parity_ratio": 0.23140495867768596,
+    "r_fft": 3202.7938298399094,
+    "major_arc_model": 3573.057777777778,
+    "minor_arc_eta": 0.10362663325532619
+  },
+  {
+    "n": 10000,
+    "mod30": 10,
+    "goldbach_pairs": 127,
+    "chen_pairs": 404,
+    "parity_ratio": 0.31435643564356436,
+    "r_fft": 16855.213722553453,
+    "major_arc_model": 19622.222222222223,
+    "minor_arc_eta": 0.14101402319942766
+  },
+  {
+    "n": 30030,
+    "mod30": 0,
+    "goldbach_pairs": 905,
+    "chen_pairs": 1682,
+    "parity_ratio": 0.5380499405469679,
+    "r_fft": 156342.35316124815,
+    "major_arc_model": 113113.0,
+    "minor_arc_eta": 0.3821784689756982
+  },
+  {
+    "n": 50000,
+    "mod30": 20,
+    "goldbach_pairs": 450,
+    "chen_pairs": 1439,
+    "parity_ratio": 0.3127171646977067,
+    "r_fft": 86993.42441938096,
+    "major_arc_model": 98111.11111111111,
+    "minor_arc_eta": 0.11331730489872183
+  },
+  {
+    "n": 100000,
+    "mod30": 10,
+    "goldbach_pairs": 810,
+    "chen_pairs": 2598,
+    "parity_ratio": 0.3117782909930716,
+    "r_fft": 176573.64981384517,
+    "major_arc_model": 196222.22222222222,
+    "minor_arc_eta": 0.10013428747191021
+  },
+  {
+    "n": 150000,
+    "mod30": 0,
+    "goldbach_pairs": 2270,
+    "chen_pairs": 5632,
+    "parity_ratio": 0.4030539772727273,
+    "r_fft": 535479.5791415777,
+    "major_arc_model": 519333.3333333334,
+    "minor_arc_eta": 0.031090332108301026
+  },
+  {
+    "n": 199998,
+    "mod30": 18,
+    "goldbach_pairs": 2144,
+    "chen_pairs": 6142,
+    "parity_ratio": 0.34907196352979486,
+    "r_fft": 534791.5492062878,
+    "major_arc_model": 567438.77,
+    "minor_arc_eta": 0.05753434999464733
+  },
+  {
+    "n": 500000,
+    "mod30": 20,
+    "goldbach_pairs": 3052,
+    "chen_pairs": 10140,
+    "parity_ratio": 0.3009861932938856,
+    "r_fft": 892332.2381150082,
+    "major_arc_model": 981111.1111111111,
+    "minor_arc_eta": 0.09048809252150919
+  },
+  {
+    "n": 999990,
+    "mod30": 0,
+    "goldbach_pairs": 11143,
+    "chen_pairs": 29727,
+    "parity_ratio": 0.37484441753288256,
+    "r_fft": 3634020.812490816,
+    "major_arc_model": 3462187.6,
+    "minor_arc_eta": 0.04963139850966369
+  },
+  {
+    "n": 1000000,
+    "mod30": 10,
+    "goldbach_pairs": 5402,
+    "chen_pairs": 18618,
+    "parity_ratio": 0.29014931786443227,
+    "r_fft": 1756567.536732241,
+    "major_arc_model": 1962222.2222222222,
+    "minor_arc_eta": 0.10480703111040944
+  }
+]
